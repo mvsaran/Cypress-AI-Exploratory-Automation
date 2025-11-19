@@ -1,0 +1,8 @@
+node_modules/
+videos/
+cypress/videos/
+cypress/screenshots/
+reports/
+.DS_Store
+npm-debug.log
+package-lock.json

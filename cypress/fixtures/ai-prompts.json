@@ -1,0 +1,18 @@
+{
+  "objectives": [
+    "Discover interactive elements (buttons, inputs, links) and log unexpected behaviors",
+    "Detect performance regressions via page load timings and resources",
+    "Identify accessibility issues such as missing alt text or form labels",
+    "Capture UI anomalies and visual mismatches for manual review"
+  ],
+  "scenarios": [
+    {
+      "name": "SauceDemo checkout monitoring",
+      "steps": ["login","add to cart","checkout","finish"]
+    },
+    {
+      "name": "Amazon exploratory search",
+      "steps": ["search","apply filters","open product","validate listing"]
+    }
+  ]
+}

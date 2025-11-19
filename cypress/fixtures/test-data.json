@@ -1,0 +1,19 @@
+{
+  "saucedemo": {
+    "user": "standard_user",
+    "password": "secret_sauce",
+    "checkout": { "firstName": "Test", "lastName": "User", "postalCode": "12345" }
+  },
+  "parabank": {
+    "user": null,
+    "searchTerms": ["Savings", "Open Account"]
+  },
+  "amazon": {
+    "searchTerms": ["software engineer"],
+    "filters": {}
+  },
+  "flipkart": {
+    "searchTerms": ["frontend developer"],
+    "user": null
+  }
+}
